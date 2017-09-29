@@ -1,0 +1,10 @@
+C:\users\schmele\documents\dev\dotnet\evolution\simulator\bin\Debug\netcoreapp2.0\simulator.deps.json
+C:\users\schmele\documents\dev\dotnet\evolution\simulator\bin\Debug\netcoreapp2.0\simulator.runtimeconfig.json
+C:\users\schmele\documents\dev\dotnet\evolution\simulator\bin\Debug\netcoreapp2.0\simulator.runtimeconfig.dev.json
+C:\users\schmele\documents\dev\dotnet\evolution\simulator\bin\Debug\netcoreapp2.0\simulator.dll
+C:\users\schmele\documents\dev\dotnet\evolution\simulator\bin\Debug\netcoreapp2.0\simulator.pdb
+C:\users\schmele\documents\dev\dotnet\evolution\simulator\obj\Debug\netcoreapp2.0\simulator.csproj.CoreCompileInputs.cache
+C:\users\schmele\documents\dev\dotnet\evolution\simulator\obj\Debug\netcoreapp2.0\simulator.AssemblyInfoInputs.cache
+C:\users\schmele\documents\dev\dotnet\evolution\simulator\obj\Debug\netcoreapp2.0\simulator.AssemblyInfo.cs
+C:\users\schmele\documents\dev\dotnet\evolution\simulator\obj\Debug\netcoreapp2.0\simulator.dll
+C:\users\schmele\documents\dev\dotnet\evolution\simulator\obj\Debug\netcoreapp2.0\simulator.pdb
